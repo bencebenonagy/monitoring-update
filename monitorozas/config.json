@@ -1,0 +1,36 @@
+﻿{
+  "LiferDetails": [
+    {
+      "ID": 1,
+      "LifterName": "TESCO",
+      "LifterEnabled": true,
+      "NotificationEnabled": true,
+      "Pump1OpHoursOffset": 0,
+      "Pump2OpHoursOffset": 0,
+      "PowerConsumptionOffset": 0,
+      "OverCurrentLimit": 50,
+      "OverDriveEnabled": true,
+      "LevelContactMode": false,
+      "MotorContactMode": false,
+      "MotorProtCircContactMode": true,
+      "MotorProtectionInstalled": true,
+      "USLevelLower": 0,
+      "USLevelOne": 0,
+      "USLevelTwo": 0,
+      "USLevelEMG": 0,
+      "USMinV": 0,
+      "USMaxV": 0
+    }
+  ],
+  "Url": "http://localhost/atemelo/mysql.php?",
+  "ComPort": "Nincs",
+  "TimeOutHours": 5,
+  "ErrorAfterConfirm": 60,
+  "StartUpFlag": true,
+  "RainingLimit": 2100,
+  "OverDriveTimeOut": 3,
+  "SendingFrequency": 5,
+  "VoltageMinimum": 200,
+  "Token": "e6d01142aa1053e07ce2fd7e341f5688",
+  "Password": ""
+}
